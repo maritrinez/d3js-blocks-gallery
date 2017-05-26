@@ -1,0 +1,38 @@
+#buttons {
+	margin: 40px 110px;
+	letter-spacing: -0.31em;
+}
+
+button {
+	/*margin: 0 20px;*/
+  font-size: 110%;
+  padding: .5em 1em;
+  color: rgba(0,0,0,.8);
+  border: 1px solid #999;
+  border: transparent;
+  background-color: #E6E6E6;
+  cursor: pointer;
+  border-radius: 2px;
+  font-weight: 100;
+  letter-spacing: 0.01em;
+}
+
+button:hover {
+	background-color: #c9c9c9;
+}
+
+button:focus {
+  outline-width: 0;
+}
+.button.selected {
+	background-color: #4A4A4A;
+	color: #ffffff;
+}
+
+.axis text {
+	fill: #a5a5a5;
+}
+
+.axis path, .axis line {
+	stroke: #a5a5a5;
+}

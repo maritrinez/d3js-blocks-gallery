@@ -1,0 +1,28 @@
+body {
+  font-family: 'Share Tech', sans-serif;
+}
+
+.stacked_tooltip {
+  top: 0;
+  right: 0;
+  position: absolute;
+  padding: 5px;
+  line-height: 140%;
+  width: 150px;
+  height: 50px;
+  font-size: 80%;
+  background: #FAF7F5;
+  border: 1px solid #424242;
+  border-radius: 5px;
+  pointer-events: none;
+  text-align: right;
+}
+
+.stacked_tooltip strong {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+.label {
+  font-size: 80%
+}

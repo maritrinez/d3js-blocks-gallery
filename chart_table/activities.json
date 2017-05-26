@@ -1,0 +1,99 @@
+{
+    "title": "Number of activities per type",
+    "breadcrumb": [
+        "Conferences and congresses",
+        "Internacionalization visitors"
+    ],
+    "legend": {
+        "mobility": {
+            "color": "#A8DBA8",
+            "text": "Internacionalization mobility program"
+        },
+        "visitors": {
+            "color": "#79BD9A",
+            "text": "Internacionalization visitors program"
+        },
+        "residents": {
+            "color": "#3B8686",
+            "text": "Residences"
+        },
+        "other": {
+            "color": "#0B486B",
+            "text": "Others"
+        }
+    },
+    "data": [
+        {
+            "scope": "All",
+            "pices": {
+                "mobility": 476,
+                "visitors": 111,
+                "residents": 16,
+                "other": 183
+            }
+        },
+        {
+            "scope": "Cinema",
+            "pices": {
+                "mobility": 70,
+                "visitors": 24,
+                "residents": 0,
+                "other": 10
+            }
+        },
+        {
+            "scope": "Performing Arts",
+            "pices": {
+                "mobility": 94,
+                "visitors": 19,
+                "residents": 2,
+                "other": 9
+            }
+        },
+        {
+            "scope": "Music",
+            "pices": {
+                "mobility": 107,
+                "visitors": 22,
+                "residents": 0,
+                "other": 7
+            }
+        },
+        {
+            "scope": "Visual Arts",
+            "pices": {
+                "mobility": 89,
+                "visitors": 12,
+                "residents": 9,
+                "other": 47
+            }
+        },
+        {
+            "scope": "Literature",
+            "pices": {
+                "mobility": 62,
+                "visitors": 22,
+                "residents": 3,
+                "other": 25
+            }
+        },
+        {
+            "scope": "Exhibitions",
+            "pices": {
+                "mobility": 43,
+                "visitors": 2,
+                "residents": 2,
+                "other": 74
+            }
+        },
+        {
+            "scope": "Conferences and congresses",
+            "pices": {
+                "mobility": 11,
+                "visitors": 10,
+                "residents": 0,
+                "other": 11
+            }
+        }
+    ]
+}
